@@ -24,10 +24,10 @@ I don't specialize. I build full production systems across whatever domain needs
 
 It's not just "can build anything" it's "can build anything and know why it should exist and how to sell it."
 
-340 commits · 41 repos · March 2026 · solo
-
 Email: 📬 gdoman99@gmail.com · neovectr.inc@gmail.com
 
 Facebook: https://www.facebook.com/gary.doman.1/
 
 GareBearProductionz: https://www.instagram.com/garebearproductionz/
+
+340 commits · 41 repos · March 2026 · solo
