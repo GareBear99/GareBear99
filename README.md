@@ -6,6 +6,11 @@ I don't specialize. I build full production systems across whatever domain needs
 
 **Right now:**
 - 📁 [Portfolio](https://github.com/GareBear99/Portfolio) — full project index and resume
+- 🛰️ [A Real-Time Spatial Signal Intelligence Engine](https://github.com/GareBear99/A-real-time-spatial-signal-intelligence-engine) — real-time RF/geospatial signal fusion and mapping system
+- ☀️ [Neo VECTR Solar Sim (NASA Standard)](https://github.com/GareBear99/Neo-VECTR_Solar_Sim_NASA_Standard) — high-precision solar system simulation engine
+- ⏳ [TT-101 Handbook](https://github.com/GareBear99/TT-101_Handbook) — conceptual time systems, continuity protocols, and theoretical frameworks
+- 🧠 [ARC-Core](https://github.com/GareBear99/ARC-Core) — intelligence fusion kernel, correlation engine, and operational backbone
+- ⚛️ [AGI Photon Quantum Computing](https://github.com/GareBear99/AGI_Photon-Quantum-Computing) — experimental AGI architecture using photon-based computation models
 - 🎛️ [FreeEQ8](https://github.com/GareBear99/FreeEQ8) — best free 8-band parametric EQ available. Open source.
 - 🤖 [BotFortress](https://botfortress.net) — free Discord bot hosting on Cloudflare's edge
 - 💰 [ADMENSION](https://github.com/GareBear99/ADMENSION) — link shortener that pays you automatically
@@ -23,4 +28,3 @@ Email: 📬 gdoman99@gmail.com · neovectr.inc@gmail.com
 Facebook: https://www.facebook.com/gary.doman.1/
 
 GareBearProductionz: https://www.instagram.com/garebearproductionz/
-
