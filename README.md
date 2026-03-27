@@ -1,4 +1,4 @@
-# Gary Doman · GareBear99 · GareBearProductionz · Neo-VECTR · Tizwildin
+# Gary Doman · GareBear99 · Neo-VECTR · Tizwildin
 
 > Independent systems builder · Williams Lake, BC · 27
 
@@ -19,3 +19,5 @@ I don't specialize. I build full production systems across whatever domain needs
 340 commits · 41 repos · March 2026 · solo
 
 📬 gdoman99@gmail.com · neovectr.inc@gmail.com
+GareBearProductionz: https://www.instagram.com/garebearproductionz/
+Facebook: https://www.facebook.com/gary.doman.1/
