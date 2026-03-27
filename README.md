@@ -9,7 +9,6 @@ I don't specialize. I build full production systems across whatever domain needs
 - 🎛️ [FreeEQ8](https://github.com/GareBear99/FreeEQ8) — best free 8-band parametric EQ available. Open source.
 - 🤖 [BotFortress](https://botfortress.net) — free Discord bot hosting on Cloudflare's edge
 - 💰 [ADMENSION](https://github.com/GareBear99/ADMENSION) — link shortener that pays you automatically
-- 🔊 [TizWildin Hub](https://github.com/GareBear99/TizWildinEntertainmentHUB) — 14 audio plugins, one ecosystem
 - 🤖 [Lucid Terminal](https://github.com/GareBear99/Lucid-Terminal) — AI-Native Terminal with LuciferAI Built-In | 72% Offline No LLM Success
 - 🏙️ [RG-Command-Center](https://github.com/GareBear99/RG-Command-Center) — Canadian real estate intelligence platform, GPS maps, CRM, deal scoring
 - 🟦 [Proto-Synth Grid Engine](https://github.com/GareBear99/Proto-Synth_Grid_Engine) — blueprint-driven simulation where geometry is computation
@@ -21,6 +20,8 @@ I don't specialize. I build full production systems across whatever domain needs
 - ⏳ [TT-101 Handbook](https://github.com/GareBear99/TT-101_Handbook) — conceptual time systems, continuity protocols, and theoretical frameworks
 - 🎮 [RiftAscent](https://github.com/GareBear99/RiftAscent) — canvas-based action game, prestige cycles, procedural audio, coming to iOS & Android
 - 🧠 [ARC-Core](https://github.com/GareBear99/ARC-Core) — intelligence fusion kernel, correlation engine, and operational backbone
+- 🔊 [TizWildin Hub](https://github.com/GareBear99/TizWildinEntertainmentHUB) — 14 audio plugins, one ecosystem
+
 
 340 commits · 41 repos · March 2026 · solo
 
