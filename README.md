@@ -6,8 +6,8 @@ I don't specialize. I build full production systems across whatever domain needs
 
 **Right now:**
 - 📁 [Portfolio](https://github.com/GareBear99/Portfolio) — full project index and resume
-- 🤖 [BotFortress](https://botfortress.net) — free Discord bot hosting on Cloudflare's edge
 - 🎛️ [FreeEQ8](https://github.com/GareBear99/FreeEQ8) — best free 8-band parametric EQ available. Open source.
+- 🤖 [BotFortress](https://botfortress.net) — free Discord bot hosting on Cloudflare's edge
 - 🔊 [TizWildin Hub](https://github.com/GareBear99/TizWildinEntertainmentHUB) — 14 audio plugins, one ecosystem
 - 🤖 [Lucid Terminal](https://github.com/GareBear99/Lucid-Terminal) — AI-native terminal with LuciferAI built in
 - 💰 [ADMENSION](https://github.com/GareBear99/ADMENSION) — link shortener that pays you automatically
