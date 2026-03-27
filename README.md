@@ -31,5 +31,5 @@ Email: 📬 gdoman99@gmail.com · neovectr.inc@gmail.com
 
 Facebook: https://www.facebook.com/gary.doman.1/
 
-GareBearProductionz: https://www.instagram.com/garebearproductionz/
+Instagram: https://www.instagram.com/garebearproductionz/
 
