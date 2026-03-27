@@ -1,6 +1,6 @@
 # Gary Doman · GareBear99 · Neo-VECTR · Tizwildin
 
-> Independent systems builder · Williams Lake, BC, Canada · Born August 25, 1999, L.A.
+> Independent systems builder · Williams Lake, BC, Canada
 
 I don't specialize. I build full production systems across whatever domain needs solving.
 
