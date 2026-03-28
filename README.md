@@ -7,7 +7,7 @@ I don't specialize. I build full production systems across whatever domain needs
 **Right now:**
 - 📁 [Portfolio](https://github.com/GareBear99/Portfolio) — full project index and resume
 - 🎛️ [FreeEQ8](https://github.com/GareBear99/FreeEQ8) — best free 8-band parametric EQ available. Open source.
-- 🤖 [BotFortress](https://botfortress.net) — free VPS bot hosting, 1st Bots Free!
+- 🤖 [BotFortress](https://botfortress.net) — free VPS/Server bot hosting, 1st Bots Free!
 - 💰 [ADMENSION](https://github.com/GareBear99/ADMENSION) — link shortener that pays you automatically
 - 🤖 [Lucid Terminal](https://github.com/GareBear99/Lucid-Terminal) — AI-Native Terminal with LuciferAI Built-In | 72% Offline No LLM Success
 - 🏙️ [RG-Command-Center](https://github.com/GareBear99/RG-Command-Center) — Canadian real estate intelligence platform, GPS maps, CRM, deal scoring
