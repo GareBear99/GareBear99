@@ -9,8 +9,8 @@ I don't specialize. I build full production systems across whatever domain needs
 - 🎛️ [FreeEQ8](https://github.com/GareBear99/FreeEQ8) — best free 8-band parametric EQ available. Open source
 - 🤖 [BotFortress](https://botfortress.net) — premium hosting platform built for developers
 - 💰 [ADMENSION](https://github.com/GareBear99/ADMENSION) — link shortener that pays you automatically
-- 🟦 [I/O Synth Grid Engine](https://github.com/GareBear99/Proto-Synth_Grid_Engine) — blueprint-driven simulation where geometry is computation
 - 🤖 [Lucid Terminal](https://github.com/GareBear99/Lucid-Terminal) — AI-Native Terminal with LuciferAI Built-In | 72% Offline No LLM Success
+- 🟦 [I/O Synth Grid Engine](https://github.com/GareBear99/Proto-Synth_Grid_Engine) — Prototyping blueprint-driven simulation where geometry is computation
 - 🏙️ [RG-Command-Center](https://github.com/GareBear99/RG-Command-Center) — Canadian real estate intelligence platform, GPS maps, CRM, deal scoring
 - 🦾 [Robotics Master Controller](https://github.com/GareBear99/Robotics-Master-Controller) — prosthetics, artificial muscles, exoskeletons, DARPA-level research
 - 🛰️ [Spatial Signal Intelligence Engine](https://github.com/GareBear99/A-real-time-spatial-signal-intelligence-engine) — real-time geospatial signal fusion and mapping
