@@ -1,4 +1,4 @@
-# Gary Doman · GareBear99 · Neo-VECTR · Tizwildin
+# Gary Doman · GareBear99 · GareBearProductionz · Neo-VECTR · Tizwildin
 
 > Independent systems builder · Williams Lake, BC, Canada
 
