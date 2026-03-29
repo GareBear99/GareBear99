@@ -11,7 +11,7 @@ I don't specialize. I build full production systems across whatever domain needs
 - 💰 [ADMENSION](https://github.com/GareBear99/ADMENSION) — link shortener that pays you automatically
 - 🤖 [Lucid Terminal](https://github.com/GareBear99/Lucid-Terminal) — AI-Native Terminal with LuciferAI Built-In | 72% Offline No LLM Success
 - 🏙️ [RG-Command-Center](https://github.com/GareBear99/RG-Command-Center) — Canadian real estate intelligence platform, GPS maps, CRM, deal scoring
-- 🟦 [Proto-Synth Grid Engine](https://github.com/GareBear99/Proto-Synth_Grid_Engine) — blueprint-driven simulation where geometry is computation
+- 🟦 [I/O Synth Grid Engine](https://github.com/GareBear99/Proto-Synth_Grid_Engine) — blueprint-driven simulation where geometry is computation
 - 🦾 [Robotics Master Controller](https://github.com/GareBear99/Robotics-Master-Controller) — prosthetics, artificial muscles, exoskeletons, DARPA-level research
 - 🛰️ [Spatial Signal Intelligence Engine](https://github.com/GareBear99/A-real-time-spatial-signal-intelligence-engine) — real-time geospatial signal fusion and mapping
 - ☀️ [Neo VECTR Solar Sim (NASA Standard)](https://github.com/GareBear99/Neo-VECTR_Solar_Sim_NASA_Standard) — high-precision solar system simulation engine
