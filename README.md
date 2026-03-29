@@ -7,6 +7,7 @@ I don't specialize. I build full production systems across whatever domain needs
 **Right now:**
 - 📁 [Portfolio](https://github.com/GareBear99/Portfolio) — full project index and resume
 - 🎛️ [FreeEQ8](https://github.com/GareBear99/FreeEQ8) — best free 8-band parametric EQ available. Open source
+- 🎻[Instrudio](https://github.com/GareBear99/Instrudio) - 4 free VST3/AU synth plugins — violin, piano, harp & bongos.
 - 🤖 [BotFortress](https://botfortress.net) — premium hosting platform built for developers
 - 💰 [ADMENSION](https://github.com/GareBear99/ADMENSION) — link shortener that pays you automatically
 - 🤖 [Lucid Terminal](https://github.com/GareBear99/Lucid-Terminal) — AI-Native Terminal with LuciferAI Built-In | 72% Offline No LLM Success
@@ -21,6 +22,7 @@ I don't specialize. I build full production systems across whatever domain needs
 - 🎮 [RiftAscent](https://github.com/GareBear99/RiftAscent) — canvas-based action game, prestige cycles, procedural audio, coming to iOS & Android
 - 🧠 [ARC-Core](https://github.com/GareBear99/ARC-Core) — intelligence fusion kernel, correlation engine, and operational backbone
 - 🔊 [TizWildin Hub](https://github.com/GareBear99/TizWildinEntertainmentHUB) — 14 audio plugins, one ecosystem
+  
 
 It's not just "can build anything" it's "can build anything and know why it should exist and how to sell it."
 
