@@ -21,8 +21,8 @@ I don't specialize. I build full production systems across whatever domain needs
 - ⏳ [TT-101 Handbook](https://github.com/GareBear99/TT-101_Handbook) — conceptual time systems, continuity protocols, and theoretical frameworks
 - 🎮 [RiftAscent](https://github.com/GareBear99/RiftAscent) — canvas-based action game, prestige cycles, procedural audio, coming to iOS & Android
 - 🧠 [ARC-Core](https://github.com/GareBear99/ARC-Core) — intelligence fusion kernel, correlation engine, and operational backbone
-- 🔊 [TizWildin Hub](https://github.com/GareBear99/TizWildinEntertainmentHUB) — 14 audio plugins, one ecosystem
 - 🎵 [Awesome Audio](https://github.com/GareBear99/awesome-audio-plugins-dev) — Awesome Audio plugins and samples!
+- 🔊 [TizWildin Hub](https://github.com/GareBear99/TizWildinEntertainmentHUB) — 14 audio plugins, one ecosystem
   
 
 It's not just "can build anything" it's "can build anything and know why it should exist and how to sell it."
