@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="Gary Doman banner" width="100%" />
-</p>
 
 # Gary Doman · GareBear99 · GareBearProductionz · Neo-VECTR · TizwildinEntertainment
 
