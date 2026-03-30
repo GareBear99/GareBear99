@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GareBear99/GareBear99/main/assets/gary_doman_live_banner.svg" width="100%" alt="Gary Doman live banner" />
+  <img src="https://raw.githubusercontent.com/GareBear99/GareBear99/main/assets/banner.svg" width="100%" alt="Gary Doman live banner" />
 </p>
 
 <p align="center">
