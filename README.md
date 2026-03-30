@@ -1,7 +1,4 @@
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GareBear99/GareBear99/main/assets/banner.svg" width="100%" alt="Gary Doman live banner" />
-</p>
+# Gary Doman · GareBear99 · GareBearProductionz · Neo-VECTR · TizwildinEntertainment
 
 <p align="center">
   <a href="mailto:gdoman99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Contact-Email-30363d?style=for-the-badge&logo=gmail"></a>
@@ -53,3 +50,6 @@ Available for product builds, audits, architecture work, and sponsorship support
 - 📷 Instagram: [instagram.com/garebearproductionz](https://www.instagram.com/garebearproductionz/)
 - 👤 Facebook: [facebook.com/gary.doman.1](https://www.facebook.com/gary.doman.1/)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GareBear99/GareBear99/main/assets/banner.svg" width="100%" alt="Gary Doman live banner" />
+</p>
