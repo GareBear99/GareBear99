@@ -1,5 +1,7 @@
 
-# Gary Doman · GareBear99 · GareBearProductionz · Neo-VECTR · TizwildinEntertainment
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GareBear99/GareBear99/main/assets/gary_doman_live_banner.svg" width="100%" alt="Gary Doman live banner" />
+</p>
 
 <p align="center">
   <a href="mailto:gdoman99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Contact-Email-30363d?style=for-the-badge&logo=gmail"></a>
