@@ -34,19 +34,16 @@ I don't specialize. I build full production systems across whatever domain needs
 
 It's not just "can build anything" it's "can build anything and know why it should exist and how to sell it."
 
+
 <!-- MONTHLY_GITHUB_STATS_START -->
 340 commits · 41 repos · March 2026 · solo
 <!-- MONTHLY_GITHUB_STATS_END -->
-
 <!-- TOP_STARRED_REPO_START -->
 Top starred repo: loading...
 <!-- TOP_STARRED_REPO_END -->
-
 <!-- RECENT_PROJECTS_START -->
 Last 3 projects committed to: loading...
 <!-- RECENT_PROJECTS_END -->
-
-
 
 ## Support / Hire / Contact
 
