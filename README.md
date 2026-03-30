@@ -1,4 +1,14 @@
+<p align="center">
+  <img src="assets/hero.svg" alt="Gary Doman banner" width="100%" />
+</p>
+
 # Gary Doman · GareBear99 · GareBearProductionz · Neo-VECTR · TizwildinEntertainment
+
+<p align="center">
+  <a href="mailto:gdoman99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Contact-Email-30363d?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/GareBear99/Portfolio"><img alt="Portfolio" src="https://img.shields.io/badge/View-Portfolio-30363d?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/sponsors/GareBear99"><img alt="Hire or support" src="https://img.shields.io/badge/Hire%20%2F%20Support-Open-30363d?style=for-the-badge&logo=githubsponsors"></a>
+</p>
 
 > Independent systems builder · Williams Lake, BC, Canada
 
@@ -27,12 +37,33 @@ I don't specialize. I build full production systems across whatever domain needs
 
 It's not just "can build anything" it's "can build anything and know why it should exist and how to sell it."
 
+<!-- MONTHLY_GITHUB_STATS_START -->
 340 commits · 41 repos · March 2026 · solo
+<!-- MONTHLY_GITHUB_STATS_END -->
+
+<!-- TOP_STARRED_REPO_START -->
+Top starred repo: loading...
+<!-- TOP_STARRED_REPO_END -->
+
+<!-- RECENT_PROJECTS_START -->
+Last 3 projects committed to: loading...
+<!-- RECENT_PROJECTS_END -->
 
 
-Email: 📬 gdoman99@gmail.com · neovectr.inc@gmail.com
 
-Facebook: https://www.facebook.com/gary.doman.1/
+## Support / Hire / Contact
 
-Instagram: https://www.instagram.com/garebearproductionz/
+Available for product builds, audits, architecture work, and sponsorship support.
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-30363d?logo=githubsponsors)](https://github.com/sponsors/GareBear99)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-30363d?logo=buymeacoffee)](https://buymeacoffee.com/garebear99)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-30363d?logo=kofi)](https://ko-fi.com/garebear99)
+
+- 📬 Email: `gdoman99@gmail.com` · `neovectr.inc@gmail.com`
+- 💼 Portfolio: [github.com/GareBear99/Portfolio](https://github.com/GareBear99/Portfolio)
+- 🤝 GitHub Sponsors: [github.com/sponsors/GareBear99](https://github.com/sponsors/GareBear99)
+- ☕ Buy Me a Coffee: [buymeacoffee.com/garebear99](https://buymeacoffee.com/garebear99)
+- 💜 Ko-fi: [ko-fi.com/garebear99](https://ko-fi.com/garebear99)
+- 📷 Instagram: [instagram.com/garebearproductionz](https://www.instagram.com/garebearproductionz/)
+- 👤 Facebook: [facebook.com/gary.doman.1](https://www.facebook.com/gary.doman.1/)
 
