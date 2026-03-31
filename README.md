@@ -44,11 +44,11 @@ Available for product builds, audits, architecture work, and sponsorship support
 
 - 📬 Email: `gdoman99@gmail.com` · `neovectr.inc@gmail.com`
 - 💼 Portfolio: [github.com/GareBear99/Portfolio](https://github.com/GareBear99/Portfolio)
+- 📷 Instagram: [instagram.com/garebearproductionz](https://www.instagram.com/garebearproductionz/)
+- 👤 Facebook: [facebook.com/gary.doman.1](https://www.facebook.com/gary.doman.1/)
 - 🤝 GitHub Sponsors: [github.com/sponsors/GareBear99](https://github.com/sponsors/GareBear99)
 - ☕ Buy Me a Coffee: [buymeacoffee.com/garebear99](https://buymeacoffee.com/garebear99)
 - 💜 Ko-fi: [ko-fi.com/garebear99](https://ko-fi.com/garebear99)
-- 📷 Instagram: [instagram.com/garebearproductionz](https://www.instagram.com/garebearproductionz/)
-- 👤 Facebook: [facebook.com/gary.doman.1](https://www.facebook.com/gary.doman.1/)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GareBear99/GareBear99/main/assets/banner.svg" width="100%" alt="Gary Doman live banner" />
