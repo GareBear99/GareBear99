@@ -29,8 +29,8 @@ I don't specialize. I build full production systems across whatever domain needs
 - 🎮 [Neolution](https://github.com/GareBear99/Neolution) — CPU-light Canvas2D rhythm game with 8 lanes, gamepad support, and real-time audio analysis
 - 🧠 [ARC-Core](https://github.com/GareBear99/ARC-Core) — intelligence fusion kernel, correlation engine, and operational backbone
 - ⬇️ [Arc-RAR](https://github.com/GareBear99/Arc-RAR) — CLI-first archive manager with a native-app control plane
-- 🏁 [ARC-Turbo-OS](https://github.com/GareBear99/ARC-Turbo-OS) — Eliminates redundant computation
 - 📜 [ARC-Runtime](https://github.com/GareBear99/arc-lucifer-cleanroom-runtime) — A clean-room, local-first operator runtime
+- 🏁 [ARC-Turbo-OS](https://github.com/GareBear99/ARC-Turbo-OS) — Eliminates redundant computation
 - 🔊 [TizWildin Hub](https://github.com/GareBear99/TizWildinEntertainmentHUB) — 16 audio plugins, one ecosystem
 - 🎵 [Awesome Audio](https://github.com/GareBear99/awesome-audio-plugins-dev) — Free Awesome Audio Dev List
   
