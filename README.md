@@ -17,7 +17,7 @@ I don't specialize. I build full production systems across whatever domain needs
 - 🎛️ [FreeEQ8](https://github.com/GareBear99/FreeEQ8) — best free 8-band parametric EQ available. Open source
 - 🎻[Instrudio](https://github.com/GareBear99/Instrudio) — 4 free VST3/AU synth plugins — violin, piano, harp & bongos
 - 🤖 [Lucid Terminal](https://github.com/GareBear99/Lucid-Terminal) — AI-Native Terminal with LuciferAI Built-In | 72% Offline No LLM Success
-- 🟦 [I/O Synth Grid Engine](https://github.com/GareBear99/Proto-Synth_Grid_Engine) — Prototyping blueprint-driven simulation where geometry is computation
+- 🔮 [I/O Synth Grid Engine](https://github.com/GareBear99/Proto-Synth_Grid_Engine) — Prototyping blueprint-driven simulation where geometry is computation
 - 🏙️ [RAG-Command-Center](https://github.com/GareBear99/RG-Command-Center) — Canadian real estate intelligence platform, GPS maps, CRM, deal scoring
 - 🦾 [Robotics Master Controller](https://github.com/GareBear99/Robotics-Master-Controller) — prosthetics, artificial muscles, exoskeletons, DARPA-level research
 - 🛰️ [Spatial Signal Intelligence Engine](https://github.com/GareBear99/A-real-time-spatial-signal-intelligence-engine) — real-time geospatial signal fusion and mapping
@@ -31,6 +31,7 @@ I don't specialize. I build full production systems across whatever domain needs
 - 🧠 [ARC-Core](https://github.com/GareBear99/ARC-Core) — intelligence fusion kernel, correlation engine, and operational backbone
 - ⬇️ [Arc-RAR](https://github.com/GareBear99/Arc-RAR) — CLI-first archive manager with a native-app control plane
 - 🏁 [ARC-Turbo-OS](https://github.com/GareBear99/ARC-Turbo-OS) — Eliminates redundant computation
+- 🧬 [Proto-AGI](https://github.com/GareBear99/Proto-AGI) — Prototype AGI Continuity Loop
 - 🔊 [TizWildin Hub](https://github.com/GareBear99/TizWildinEntertainmentHUB) — 16 audio plugins, one ecosystem
 - 🎵 [Awesome Audio](https://github.com/GareBear99/awesome-audio-plugins-dev) — Free Awesome Audio Dev List
   
