@@ -30,8 +30,8 @@ I don't specialize. I build full production systems across whatever domain needs
 - 📜 [ARC-Runtime](https://github.com/GareBear99/arc-lucifer-cleanroom-runtime) — enduring directive-bound intelligence shell with swappable cognition core
 - 🧠 [ARC-Core](https://github.com/GareBear99/ARC-Core) — intelligence fusion kernel, correlation engine, and operational backbone
 - ⬇️ [Arc-RAR](https://github.com/GareBear99/Arc-RAR) — CLI-first archive manager with a native-app control plane
-- 🏁 [ARC-Turbo-OS](https://github.com/GareBear99/ARC-Turbo-OS) — Eliminates redundant computation
 - 🧬 [Proto-AGI](https://github.com/GareBear99/Proto-AGI) — Prototype AGI Continuity Loop
+- 🏁 [ARC-Turbo-OS](https://github.com/GareBear99/ARC-Turbo-OS) — Eliminates redundant computation
 - 🔊 [TizWildin Hub](https://github.com/GareBear99/TizWildinEntertainmentHUB) — 16 audio plugins, one ecosystem
 - 🎵 [Awesome Audio](https://github.com/GareBear99/awesome-audio-plugins-dev) — Free Awesome Audio Dev List
   
