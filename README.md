@@ -21,7 +21,7 @@ I don't specialize. I build full production systems across whatever domain needs
 - 🏙️ [RAG-Command-Center](https://github.com/GareBear99/RG-Command-Center) — Canadian real estate intelligence platform, GPS maps, CRM, deal scoring
 - 🦾 [Robotics Master Controller](https://github.com/GareBear99/Robotics-Master-Controller) — prosthetics, artificial muscles, exoskeletons, DARPA-level research
 - 🛰️ [Spatial Signal Intelligence Engine](https://github.com/GareBear99/A-real-time-spatial-signal-intelligence-engine) — real-time geospatial signal fusion and mapping
-- ☀️ [Neo VECTR Solar Sim (NASA Standard)](https://github.com/GareBear99/Neo-VECTR_Solar_Sim_NASA_Standard) — high-precision solar system simulation engine
+- ☀️ [Neo VECTR's Solar Sim (NASA Standard)](https://github.com/GareBear99/Neo-VECTR_Solar_Sim_NASA_Standard) — high-precision solar system simulation engine
 - 🌌 [Seeded Universe Recreation Engine](https://github.com/GareBear99/Seeded-Universe-Recreation-Engine) — deterministic universe generation, atomic lineage, receipt system
 - ⚛️ [AGI Photon Quantum Computing](https://github.com/GareBear99/AGI_Photon-Quantum-Computing) — experimental AGI architecture using photon-based computation models
 - ⏳ [TT-101 Handbook](https://github.com/GareBear99/TT-101_Handbook) — conceptual time systems, continuity protocols, and theoretical frameworks
