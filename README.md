@@ -32,7 +32,7 @@ I don't specialize. I build full production systems across whatever domain needs
 - ⬇️ [Arc-RAR](https://github.com/GareBear99/Arc-RAR) — CLI-first archive manager with a native-app control plane
 - 🧬 [Proto-AGI](https://github.com/GareBear99/Proto-AGI) — A practical architecture for prototype AGI loop
 - 🏁 [ARC-Turbo-OS](https://github.com/GareBear99/ARC-Turbo-OS) — Eliminates redundant computation
-- 🌐 [gh-uploader-CLI](https://github.com/GareBear99/gh-uploader-cli) — cross-platform GitHub uploader CLI
+- 🌐 [gh-uploader-cli](https://github.com/GareBear99/gh-uploader-cli) — cross-platform GitHub uploader CLI
 - 🔊 [TizWildin Hub](https://github.com/GareBear99/TizWildinEntertainmentHUB) — 16 audio plugins, one ecosystem
 - 🎵 [Awesome Audio](https://github.com/GareBear99/awesome-audio-plugins-dev) — Free Awesome Audio Dev List
   
