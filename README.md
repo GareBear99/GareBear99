@@ -25,6 +25,7 @@ I don't specialize. I build full production systems across whatever domain needs
 - 🌌 [Seeded Universe Recreation Engine](https://github.com/GareBear99/Seeded-Universe-Recreation-Engine) — deterministic universe generation, atomic lineage, receipt system
 - ⚛️ [AGI Photon Quantum Computing](https://github.com/GareBear99/AGI_Photon-Quantum-Computing) — experimental AGI architecture using photon-based computation models
 - ⏳ [TT-101 Handbook](https://github.com/GareBear99/TT-101_Handbook) — conceptual time systems, continuity protocols, and theoretical frameworks
+- 📷 [ai-screenshot-attachment](https://github.com/GareBear99/ai-screenshot-attachment) — command-line utility that captures the active window of a app on macOS
 - 👾 [RiftAscent](https://github.com/GareBear99/RiftAscent) — canvas-based action game, prestige cycles, procedural audio, coming to iOS & Android
 - 🎮 [Neolution](https://github.com/GareBear99/Neolution) — CPU-light Canvas2D rhythm game with 8 lanes, gamepad support, and real-time audio analysis
 - 📜 [ARC-Runtime](https://github.com/GareBear99/arc-lucifer-cleanroom-runtime) — enduring directive-bound intelligence shell with swappable cognition core
@@ -33,7 +34,6 @@ I don't specialize. I build full production systems across whatever domain needs
 - 🧬 [Proto-AGI](https://github.com/GareBear99/Proto-AGI) — A practical architecture for prototype AGI loop
 - 🏁 [ARC-Turbo-OS](https://github.com/GareBear99/ARC-Turbo-OS) — Eliminates redundant computation
 - 🌐 [gh-uploader-cli](https://github.com/GareBear99/gh-uploader-cli) — cross-platform GitHub uploader
-- 📷 [ai-screenshot-attachment](https://github.com/GareBear99/ai-screenshot-attachment) — utility that captures the active window
 - 🔊 [TizWildin Hub](https://github.com/GareBear99/TizWildinEntertainmentHUB) — 16 audio plugins, one ecosystem
 - 🎵 [Awesome Audio](https://github.com/GareBear99/awesome-audio-plugins-dev) — Free Awesome Audio Dev List
   
