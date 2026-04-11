@@ -1,4 +1,4 @@
-# Gary Doman · GareBear99 · GareBearProductionz · Neo-VECTR · TizwildinEntertainment
+# Gary Doman · GareBear99 · GareBearProductionz · Neo-VECTR · TizWildinEntertainment
 
 <p align="center">
   <a href="mailto:gdoman99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Contact-Email-30363d?style=for-the-badge&logo=gmail"></a>
