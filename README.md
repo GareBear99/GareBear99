@@ -25,11 +25,11 @@ I don't specialize. I build full production systems across whatever domain needs
 - 🌌 [Seeded Universe Recreation Engine](https://github.com/GareBear99/Seeded-Universe-Recreation-Engine) — deterministic universe generation, atomic lineage, receipt system
 - ⚛️ [AGI Photon Quantum Computing](https://github.com/GareBear99/AGI_Photon-Quantum-Computing) — experimental AGI architecture using photon-based computation models
 - 📷 [ai-screenshot-attachment](https://github.com/GareBear99/ai-screenshot-attachment) — command-line utility that captures the active window of an app on macOS
+- 🗣️ [arc-language-module](https://github.com/GareBear99/arc-language-module) — A text-first multilingual language/script/lineage substrate for ARC-style systems.
 - ⏳ [TT-101 Handbook](https://github.com/GareBear99/TT-101_Handbook) — conceptual time systems, continuity protocols, and theoretical frameworks
 - 👾 [RiftAscent](https://github.com/GareBear99/RiftAscent) — canvas-based action game, prestige cycles, procedural audio, coming to iOS & Android
 - 🎮 [Neolution](https://github.com/GareBear99/Neolution) — CPU-light Canvas2D rhythm game with 8 lanes, gamepad support, and real-time audio analysis
 - ⚙️ [OmniBinary](https://github.com/GareBear99/omnibinary-runtime) — OmniBinary Runtime is a native-first binary intake, classification, planning, and execution-fabric scaffold
-- 🗣️ [arc-language-module](https://github.com/GareBear99/arc-language-module) — A text-first multilingual language/script/lineage substrate for ARC-style systems.
 - 📜 [ARC-Runtime](https://github.com/GareBear99/arc-lucifer-cleanroom-runtime) — enduring directive-bound intelligence CLI shell, with swappable cognition core
 - 🧠 [ARC-Core](https://github.com/GareBear99/ARC-Core) — intelligence fusion kernel, correlation engine, and operational backbone
 - ⬇️ [Arc-RAR](https://github.com/GareBear99/Arc-RAR) — CLI-first archive manager with a native-app control plane
