@@ -24,7 +24,7 @@ I don't specialize. I build full production systems across whatever domain needs
 - ☀️ [Neo VECTR's Solar Sim (NASA Standard)](https://github.com/GareBear99/Neo-VECTR_Solar_Sim_NASA_Standard) — high-precision solar system simulation engine
 - 🌌 [Seeded Universe Recreation Engine](https://github.com/GareBear99/Seeded-Universe-Recreation-Engine) — deterministic universe generation, atomic lineage, receipt system
 - ⚛️ [AGI Photon Quantum Computing](https://github.com/GareBear99/AGI_Photon-Quantum-Computing) — experimental AGI architecture using photon-based computation models
-- 🗣️ [arc-language-module](https://github.com/GareBear99/arc-language-module) — A text-first multilingual language/script/lineage substrate for AI & ARC-style systems
+- 🗣️ [arc-language-module](https://github.com/GareBear99/arc-language-module) — A text-first multilingual language/script/lineage substrate/translator for AI & ARC-style systems
 - 📷 [ai-screenshot-attachment](https://github.com/GareBear99/ai-screenshot-attachment) — command-line utility that captures the active window of an app on macOS
 - 💻 [ai-command-keyboard](https://github.com/GareBear99/ai-command-keyboard) — Cross-platform React prototype for a CLI/AI-callable on-screen keyboard
 - ⏳ [TT-101 Handbook](https://github.com/GareBear99/TT-101_Handbook) — conceptual time systems, continuity protocols, and theoretical frameworks
