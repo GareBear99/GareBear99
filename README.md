@@ -26,7 +26,7 @@ I don't specialize. I build full production systems across whatever domain needs
 - ⚛️ [AGI Photon Quantum Computing](https://github.com/GareBear99/AGI_Photon-Quantum-Computing) — experimental AGI architecture using photon-based computation models
 - 🗣️ [arc-language-module](https://github.com/GareBear99/arc-language-module) — A text-first multilingual language/script/lineage substrate for AI & ARC-style systems
 - 📷 [ai-screenshot-attachment](https://github.com/GareBear99/ai-screenshot-attachment) — command-line utility that captures the active window of an app on macOS
-- 💻 [ai-command-keyboard](https://github.com/GareBear99/ai-command-keyboard) — Cross-platform React prototype for an CLI/AI-callable on-screen keyboard
+- 💻 [ai-command-keyboard](https://github.com/GareBear99/ai-command-keyboard) — Cross-platform React prototype for a CLI/AI-callable on-screen keyboard
 - ⏳ [TT-101 Handbook](https://github.com/GareBear99/TT-101_Handbook) — conceptual time systems, continuity protocols, and theoretical frameworks
 - 👾 [RiftAscent](https://github.com/GareBear99/RiftAscent) — canvas-based action game, prestige cycles, procedural audio, coming to iOS & Android
 - 🎮 [Neolution](https://github.com/GareBear99/Neolution) — CPU-light Canvas2D rhythm game with 8 lanes, gamepad support, and real-time audio analysis
