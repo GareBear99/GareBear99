@@ -1,20 +1,19 @@
 # Gary Doman · GareBear99 · GareBearProductionz · Neo-VECTR · TizWildinEntertainment
 
+> Independent systems builder · Williams Lake, BC, Canada
+
 <p align="center">
   <a href="mailto:gdoman99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Contact-Email-30363d?style=for-the-badge&logo=gmail"></a>
   <a href="https://github.com/GareBear99/Portfolio"><img alt="Portfolio" src="https://img.shields.io/badge/View-Portfolio-30363d?style=for-the-badge&logo=github"></a>
   <a href="https://github.com/sponsors/GareBear99"><img alt="Hire or support" src="https://img.shields.io/badge/Hire%20%2F%20Support-Open-30363d?style=for-the-badge&logo=githubsponsors"></a>
 </p>
 
-> Independent systems builder · Williams Lake, BC, Canada
 
 <div align="center">
   <a href="https://github.com/GareBear99">
     <img src="https://github-readme-stats.vercel.app/api?username=GareBear99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0b12&title_color=6c7bbd&icon_color=22c55e&text_color=e8eaf0" />
   </a>
 </div>
-
-<p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%"></p>
 
 I don't specialize. I build full production systems across whatever domain needs solving.
 
@@ -52,7 +51,7 @@ I don't specialize. I build full production systems across whatever domain needs
 
 It's not just "can build anything" it's "can build anything and know why it should exist and how to sell it."
 
-
+<p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%"></p>
 
 ## Support / Hire / Contact
 
