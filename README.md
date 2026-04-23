@@ -54,9 +54,11 @@ Available for product builds, audits, architecture work, and sponsorship support
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-30363d?logo=githubsponsors)](https://github.com/sponsors/GareBear99)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-30363d?logo=buymeacoffee)](https://buymeacoffee.com/garebear99)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-30363d?logo=kofi)](https://ko-fi.com/garebear99) 
+
   <a href="https://github.com/GareBear99">
     <img src="https://github-readme-stats.vercel.app/api?username=GareBear99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0b12&title_color=6c7bbd&icon_color=22c55e&text_color=e8eaf0" />
   </a>
+
 
 - 📬 Email: `gdoman99@gmail.com` · `neovectr.inc@gmail.com`
 - 💼 Portfolio: [github.com/GareBear99/Portfolio](https://github.com/GareBear99/Portfolio)
