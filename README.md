@@ -60,6 +60,7 @@ Available for product builds, audits, architecture work, and sponsorship support
   </a>
 
 
+
 - 📬 Email: `gdoman99@gmail.com` · `neovectr.inc@gmail.com`
 - 💼 Portfolio: [github.com/GareBear99/Portfolio](https://github.com/GareBear99/Portfolio)
 - 📷 Instagram: [instagram.com/garebearproductionz](https://www.instagram.com/garebearproductionz/)
