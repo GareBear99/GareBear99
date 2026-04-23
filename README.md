@@ -1,6 +1,5 @@
 # Gary Doman · GareBear99 · GareBearProductionz · Neo-VECTR · TizWildinEntertainment
 
-> Independent systems builder · Williams Lake, BC, Canada
 
 <p align="center">
   <a href="mailto:gdoman99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Contact-Email-30363d?style=for-the-badge&logo=gmail"></a>
@@ -8,12 +7,7 @@
   <a href="https://github.com/sponsors/GareBear99"><img alt="Hire or support" src="https://img.shields.io/badge/Hire%20%2F%20Support-Open-30363d?style=for-the-badge&logo=githubsponsors"></a>
 </p>
 
-
-<div align="center">
-  <a href="https://github.com/GareBear99">
-    <img src="https://github-readme-stats.vercel.app/api?username=GareBear99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0b12&title_color=6c7bbd&icon_color=22c55e&text_color=e8eaf0" />
-  </a>
-</div>
+> Independent systems builder · Williams Lake, BC, Canada
 
 I don't specialize. I build full production systems across whatever domain needs solving.
 
@@ -60,6 +54,10 @@ Available for product builds, audits, architecture work, and sponsorship support
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-30363d?logo=githubsponsors)](https://github.com/sponsors/GareBear99)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-30363d?logo=buymeacoffee)](https://buymeacoffee.com/garebear99)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-30363d?logo=kofi)](https://ko-fi.com/garebear99)
+
+  <a href="https://github.com/GareBear99">
+    <img src="https://github-readme-stats.vercel.app/api?username=GareBear99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0b12&title_color=6c7bbd&icon_color=22c55e&text_color=e8eaf0" />
+  </a>
 
 - 📬 Email: `gdoman99@gmail.com` · `neovectr.inc@gmail.com`
 - 💼 Portfolio: [github.com/GareBear99/Portfolio](https://github.com/GareBear99/Portfolio)
