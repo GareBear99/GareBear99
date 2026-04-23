@@ -52,7 +52,7 @@ It's not just "can build anything" it's "can build anything and know why it shou
 
 <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%"></p>
 
-<div align="center">
+
 
 ## Support / Hire / Contact
 
