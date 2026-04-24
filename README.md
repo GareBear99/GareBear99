@@ -33,7 +33,7 @@ I don't specialize. I build full production systems across whatever domain needs
 - 👾 [RiftAscent](https://github.com/GareBear99/RiftAscent) — canvas-based action game, prestige cycles, procedural audio, coming to iOS & Android
 - 🎮 [Neolution](https://github.com/GareBear99/Neolution) — CPU-light Canvas2D rhythm game with 8 lanes, gamepad support, and real-time audio analysis
 - ⚙️ [OmniBinary](https://github.com/GareBear99/omnibinary-runtime) — OmniBinary Runtime is a native-first binary intake, classification, planning, and execution-fabric scaffold
-- [ARC-Neuron](https://github.com/GareBear99/ARC-Neuron-LLMBuilder) — train models, measure them, promote the better ones through a regression-aware gate, every decision restorable
+- ⚛️ [ARC-Neuron](https://github.com/GareBear99/ARC-Neuron-LLMBuilder) — train models, measure them, promote the better ones through a regression-aware gate, every decision restorable
 - 📜 [ARC-Runtime](https://github.com/GareBear99/arc-lucifer-cleanroom-runtime) — enduring directive-bound intelligence CLI shell, with swappable cognition core
 - 🧠 [ARC-Core](https://github.com/GareBear99/ARC-Core) — intelligence fusion kernel, correlation engine, and operational backbone
 - ⬇️ [Arc-RAR](https://github.com/GareBear99/Arc-RAR) — CLI-first archive manager with a native-app control plane
