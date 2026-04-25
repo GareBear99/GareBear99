@@ -40,6 +40,7 @@ I don't specialize. I build full production systems across whatever domain needs
 - 🧬 [Proto-AGI](https://github.com/GareBear99/Proto-AGI) — A practical architecture for prototype AGI loop
 - 🏁 [ARC-Turbo-OS](https://github.com/GareBear99/ARC-Turbo-OS) — Eliminates redundant computation
 - 🌐 [gh-uploader-cli](https://github.com/GareBear99/gh-uploader-cli) — cross-platform GitHub uploader
+- 🧑‍🦯 [Voxel_Audio](https://github.com/GareBear99/Voxel_Audio) — Free Audio Visualizer Software
 - 🔊 [TizWildin Hub](https://github.com/GareBear99/TizWildinEntertainmentHUB) — 21 audio plugins, one ecosystem
 - 🎵 [Awesome Audio](https://github.com/GareBear99/awesome-audio-plugins-dev) — Free Awesome Audio Dev List
   
