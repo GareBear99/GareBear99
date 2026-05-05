@@ -1,39 +1,30 @@
 # GitHub Contribution Snake Setup
 
-This profile repo now includes `.github/workflows/generate-snake.yml`.
-
-## What it does
-
-- Generates `github-contribution-grid-snake.svg` for the GareBear99 profile.
-- Generates `github-contribution-grid-snake-dark.svg` for dark mode.
-- Publishes both SVGs to the `output` branch.
-- Runs on push to `main`, manually through workflow dispatch, and daily at midnight UTC.
-
-## Required GitHub setting
-
-Go to:
+This repo already includes the workflow file at:
 
 ```text
-Settings → Actions → General → Workflow permissions → Read and write permissions → Save
+.github/workflows/generate-snake.yml
 ```
 
-Then run:
+If the Actions tab still shows **Get started with GitHub Actions**, GitHub has not received this file on the default branch.
 
-```text
-Actions → Generate GitHub Contribution Snake → Run workflow
-```
+## Required steps
 
-After the first successful run, the README will show the snake animation from:
+1. Upload/commit this entire package to `GareBear99/GareBear99`.
+2. Confirm this file exists on GitHub:
+   `.github/workflows/generate-snake.yml`
+3. Go to:
+   `Settings -> Actions -> General -> Workflow permissions`
+4. Select:
+   `Read and write permissions`
+5. Click Save.
+6. Go to `Actions`.
+7. Run `Generate GitHub Contribution Snake`.
+8. Wait for the `output` branch to be created.
+
+## Raw SVG links
 
 ```text
 https://raw.githubusercontent.com/GareBear99/GareBear99/output/github-contribution-grid-snake.svg
 https://raw.githubusercontent.com/GareBear99/GareBear99/output/github-contribution-grid-snake-dark.svg
-```
-
-## Files added
-
-```text
-.github/workflows/generate-snake.yml
-SNAKE_SETUP.md
-README.md updated with Contribution Signal Trail section
 ```
