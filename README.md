@@ -49,8 +49,8 @@ I build full production systems across whatever domain needs solving — then co
 - ⚙️ [OmniBinary](https://github.com/GareBear99/omnibinary-runtime) — native-first binary intake, classification, planning, and execution-fabric scaffold.
 - ⬇️ [Arc-RAR](https://github.com/GareBear99/Arc-RAR) — CLI-first archive manager with native-app control plane.
 - 🏁 [ARC-Turbo-OS](https://github.com/GareBear99/ARC-Turbo-OS) — seed/runtime acceleration and redundant computation elimination concept.
+- 🔮 [I/O Synth Grid Engine](https://github.com/GareBear99/Proto-Synth_Grid_Engine) — Prototyping blueprint-driven simulation where geometry is computation.
 - 🗣️ [arc-language-module](https://github.com/GareBear99/arc-language-module) — multilingual language/script/lineage substrate for AI and ARC-style systems.
-- 🔮 [I/O Synth Grid Engine](https://github.com/GareBear99/Proto-Synth_Grid_Engine) — Prototyping blueprint-driven simulation where geometry is computation
 
 
 ---
