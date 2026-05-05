@@ -9,25 +9,13 @@
 
 > Independent systems builder · Williams Lake, BC, Canada
 
-
-## Start Here
-
-I build the **GareBear99 / TizWildin** ecosystem across audio plugins, DSP research, local AI tooling, games, visualizers, sample-pack routing, and public discovery lists.
-
-- 🎛️ **Audio/plugin dev hub:** [awesome-audio-plugins-dev](https://github.com/GareBear99/awesome-audio-plugins-dev)
-- 🗂️ **Full audio list network:** [awesome-audio-lists](https://github.com/GareBear99/awesome-audio-lists)
-- 🚀 **Music platform map:** [awesome-music-platforms](https://github.com/GareBear99/awesome-music-platforms)
-- 🐍 **Python audio science / MIR / DSP research:** [awesome-python-audio-science](https://github.com/GareBear99/awesome-python-audio-science)
-- 🔊 **Public HUB router:** [TizWildinEntertainmentHUB](https://github.com/GareBear99/TizWildinEntertainmentHUB)
-
 I don't specialize. I build full production systems across whatever domain needs solving.
 
 **Right now:**
 - 📁 [Portfolio](https://github.com/GareBear99/Portfolio) — full project index and resume
 - 💰 [ADMENSION](https://github.com/GareBear99/ADMENSION) — link shortener that pays you automatically
 - 🤖 [BotFortress](https://botfortress.net) — premium hosting platform built for developers
-- 🎛️ [FreeEQ8](https://github.com/GareBear99/FreeEQ8) — free/open-source JUCE/C++ 8-band parametric EQ and flagship audio-plugin anchor
-- 🧪 [FreeVox8](https://github.com/GareBear99/FreeVox8) — spectral vocoder / ghost-resynthesis / dynamic masking plugin direction
+- 🎛️ [FreeEQ8](https://github.com/GareBear99/FreeEQ8) — best free 8-band parametric EQ available. Open source
 - 🎻[Instrudio](https://github.com/GareBear99/Instrudio) — 4 free VST3/AU synth plugins — violin, piano, harp & bongos
 - 🤖 [Lucid Terminal](https://github.com/GareBear99/Lucid-Terminal) — AI-Native Terminal with LuciferAI Built-In | 72% Offline No LLM Success
 - 🔮 [I/O Synth Grid Engine](https://github.com/GareBear99/Proto-Synth_Grid_Engine) — Prototyping blueprint-driven simulation where geometry is computation
@@ -60,12 +48,6 @@ I don't specialize. I build full production systems across whatever domain needs
 It's not just "can build anything" it's "can build anything and know why it should exist and how to sell it."
 
 <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%"></p>
-
-
-  <a href="https://github.com/GareBear99">
-    <img src="https://github-readme-stats.vercel.app/api?username=GareBear99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0b12&title_color=6c7bbd&icon_color=22c55e&text_color=e8eaf0" />
-  </a>
-
 
 ## Support / Hire / Contact
 
