@@ -62,26 +62,10 @@ It's not just "can build anything" it's "can build anything and know why it shou
 <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%"></p>
 
 
-## 🐍 Contribution Signal Trail
+  <a href="https://github.com/GareBear99">
+    <img src="https://github-readme-stats.vercel.app/api?username=GareBear99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0b12&title_color=6c7bbd&icon_color=22c55e&text_color=e8eaf0" />
+  </a>
 
-<p align="center">
-  <em>Tracking the GareBear99 / TizWildin build trail across plugins, audio tools, research lists, games, and creator systems.</em>
-</p>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/GareBear99/GareBear99/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/GareBear99/GareBear99/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GareBear99 GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/GareBear99/GareBear99/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 ## Support / Hire / Contact
 
