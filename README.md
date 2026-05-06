@@ -52,7 +52,7 @@ I build full production systems across whatever domain needs solving — then co
 - 🔮 [I/O Synth Grid Engine](https://github.com/GareBear99/Proto-Synth_Grid_Engine) — Prototyping blueprint-driven simulation where geometry is computation.
 - 🗣️ [arc-language-module](https://github.com/GareBear99/arc-language-module) — multilingual language/script/lineage substrate for AI and ARC-style systems.
 
-
+- 🪑 [ARC-AudioBench](https://github.com/GareBear99/ARC-AudioBench) — Open Source audio tool benchmarking software
 ---
 
 **Right now:**
@@ -60,7 +60,6 @@ I build full production systems across whatever domain needs solving — then co
 - 💰 [ADMENSION](https://github.com/GareBear99/ADMENSION) — link shortener that pays you automatically
 - 🤖 [BotFortress](https://botfortress.net) — premium hosting platform built for developers
 - 🎛️ [FreeEQ8](https://github.com/GareBear99/FreeEQ8) — best free 8-band parametric EQ available. Open source
-- 🪑 [ARC-AudioBench](https://github.com/GareBear99/ARC-AudioBench) — Open Source audio tool benchmarking software
 - 🤖 [Lucid Terminal](https://github.com/GareBear99/Lucid-Terminal) — AI-Native Terminal with LuciferAI Built-In | 72% Offline No LLM Success
 - 🏙️ [RAG-Command-Center](https://github.com/GareBear99/RG-Command-Center) — Canadian real estate intelligence platform, GPS maps, CRM, deal scoring
 - 🦾 [Robotics Master Controller](https://github.com/GareBear99/Robotics-Master-Controller) — prosthetics, artificial muscles, exoskeletons, DARPA-level research
