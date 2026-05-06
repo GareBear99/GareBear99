@@ -43,7 +43,7 @@ I build full production systems across whatever domain needs solving — then co
 - 🪑 [ARC-AudioBench](https://github.com/GareBear99/ARC-AudioBench) — Open Source audio tool benchmarking software.
 ---
 ## *NEW*
--
+- [ARC-StreamMemory](https://github.com/GareBear99/ARC-StreamMemory) — local-first visual capture stream second brain for AI systems.
 ---
 
 ## 🧠 AI / ARC / Runtime Systems
