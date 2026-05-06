@@ -39,7 +39,6 @@ I build full production systems across whatever domain needs solving — then co
 - 🧑‍🦯 [Voxel Audio](https://github.com/GareBear99/Voxel_Audio) — RGB audio visualizer and creator-media routing direction.
 - 🔊 [TizWildin Hub](https://github.com/GareBear99/TizWildinEntertainmentHUB) — plugin/list/pack/router ecosystem front door.
 
----
 - 🪑 [ARC-AudioBench](https://github.com/GareBear99/ARC-AudioBench) — Open Source audio tool benchmarking software.
 ---
 ## *NEW*
