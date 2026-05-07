@@ -40,10 +40,6 @@ I build full production systems across whatever domain needs solving — then co
 - 🔊 [TizWildin Hub](https://github.com/GareBear99/TizWildinEntertainmentHUB) — plugin/list/pack/router ecosystem front door.
 ---
 - 🪑 [ARC-AudioBench](https://github.com/GareBear99/ARC-AudioBench) — Open Source audio tool benchmarking software.
----
-## *NEW*
-- 💦 [ARC-StreamMemory](https://github.com/GareBear99/ARC-StreamMemory) — local-first visual capture stream second brain for AI systems.
----
 
 ## 🧠 AI / ARC / Runtime Systems
 
@@ -56,6 +52,9 @@ I build full production systems across whatever domain needs solving — then co
 - 🔮 [I/O Synth Grid Engine](https://github.com/GareBear99/Proto-Synth_Grid_Engine) — Prototyping blueprint-driven simulation where geometry is computation.
 - 🗣️ [arc-language-module](https://github.com/GareBear99/arc-language-module) — multilingual language/script/lineage substrate for AI and ARC-style systems.
 
+---
+## *NEW*
+- 💦 [ARC-StreamMemory](https://github.com/GareBear99/ARC-StreamMemory) — local-first visual capture stream second brain for AI systems.
 ---
 
 **Right now:**
