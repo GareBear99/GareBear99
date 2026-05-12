@@ -93,7 +93,26 @@ Available for product builds, audits, architecture work, and sponsorship support
     <img src="https://github-readme-stats.vercel.app/api?username=GareBear99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0b12&title_color=6c7bbd&icon_color=22c55e&text_color=e8eaf0" />
   </a>
 
+## 👾 Contribution Graph
 
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jkdevcode/github-pacman/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jkdevcode/github-pacman/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/jkdevcode/github-pacman/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
+</div>
 
 - 📬 Email: `gdoman99@gmail.com` · `neovectr.inc@gmail.com`
 - 💼 Portfolio: [github.com/GareBear99/Portfolio](https://github.com/GareBear99/Portfolio)
