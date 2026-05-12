@@ -88,15 +88,15 @@ It's not just "can build anything" it's "can build anything and know why it shou
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/jkdevcode/github-pacman/output/pacman-contribution-graph-dark.svg"
+    srcset="https://raw.githubusercontent.com/GareBear99/GareBear99/output/pacman-contribution-graph-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/jkdevcode/github-pacman/output/pacman-contribution-graph.svg"
+    srcset="https://raw.githubusercontent.com/GareBear99/GareBear99/output/pacman-contribution-graph.svg"
   />
   <img
     alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/jkdevcode/github-pacman/output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/GareBear99/GareBear99/output/pacman-contribution-graph.svg"
   />
 </picture>
 
