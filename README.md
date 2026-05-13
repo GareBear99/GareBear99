@@ -55,6 +55,7 @@ I build full production systems across whatever domain needs solving — then co
 ---
 ## *NEW*
 - 💦 [ARC-StreamMemory](https://github.com/GareBear99/ARC-StreamMemory) — local-first visual capture stream second brain for AI systems.
+- 🟩 [ARC-Room](https://github.com/GareBear99/ARC-Room) — Tactical Mesh Object Intake Lab v0.1
 ---
 
 **Right now:**
