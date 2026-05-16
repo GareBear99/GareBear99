@@ -54,7 +54,7 @@ I build full production systems across whatever domain needs solving — then co
 
 ---
 ## *NEW*
-- 🎞️ [ARC-Fusion](https://github.com/GareBear99/ARC-Fusion) — ARC-Fusion is an ARC-native, FFmpeg-backed media proof runtime.
+- 🎞️ [ARC-Fusion](https://github.com/GareBear99/ARC-Fusion) — ARC-Fusion is an ARC-native, FFmpeg-backed, binary-first cryptographic media runtime.
 - 🚁 [ARC-Apache](https://github.com/GareBear99/ARC-Apache) — ARC-Apache is the binary-first cryptographic memory substrate for the ARC ecosystem.
 - 🦀 [ai-desk-meter](https://github.com/GareBear99/ai-desk-meter) — small ESP32-S3 AMOLED display that shows current usage, and connection status.
 - 💦 [ARC-StreamMemory](https://github.com/GareBear99/ARC-StreamMemory) — local-first visual capture stream second brain for AI systems.
