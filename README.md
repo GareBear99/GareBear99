@@ -80,10 +80,11 @@ I build full production systems across whatever domain needs solving — then co
 - 📷 [ai-screenshot-attachment](https://github.com/GareBear99/ai-screenshot-attachment) — command-line utility that captures the active window of an app on macOS
 - 💻 [ai-command-keyboard](https://github.com/GareBear99/ai-command-keyboard) — Cross-platform React prototype for a CLI/AI-callable on-screen keyboard
 - ⏳ [TT-101 Handbook](https://github.com/GareBear99/TT-101_Handbook) — conceptual time systems, continuity protocols, and theoretical frameworks
-- 👾 [RiftAscent](https://github.com/GareBear99/RiftAscent) — canvas-based action game, prestige cycles, procedural audio, coming to iOS & Android
-- 🎮 [Neolution](https://github.com/GareBear99/Neolution) — CPU-light Canvas2D rhythm game with 8 lanes, gamepad support, and real-time audio analysis
 - 🌐 [gh-uploader-cli](https://github.com/GareBear99/gh-uploader-cli) — cross-platform GitHub uploader
   
+## Games
+- 👾 [RiftAscent](https://github.com/GareBear99/RiftAscent) — canvas-based action game, prestige cycles, procedural audio, coming to iOS & Android
+- 🎮 [Neolution](https://github.com/GareBear99/Neolution) — CPU-light Canvas2D rhythm game with 8 lanes, gamepad support, and real-time audio analysis
 
 It's not just "can build anything" it's "can build anything and know why it should exist and how to sell it."
 
