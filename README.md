@@ -54,6 +54,8 @@ I build full production systems across whatever domain needs solving — then co
 
 ---
 ## *NEW*
+- [SlushAI]() — 
+- [Gatorrent](https://github.com/GareBear99/Gatorrent) — 
 - [ARC-SeedCatalog](https://github.com/GareBear99/ARC-SeedCatalog) — 
 - [ARC-Emulator](https://github.com/GareBear99/ARC-Emulator) — 
 - 🎞️ [ARC-Fusion](https://github.com/GareBear99/ARC-Fusion) — ARC-Fusion is an ARC-native, FFmpeg-backed, binary-first cryptographic media runtime.
