@@ -54,7 +54,7 @@ I build full production systems across whatever domain needs solving — then co
 
 ---
 ## *NEW*
-- [BannerBass](https://github.com/GareBear99/BannerBass) — 
+- [BannerBass](https://github.com/GareBear99/BannerBass) — BannerBass is a no-server static banner maker for music release banners.
 - [SlushAI]() — 
 - [Gatorrent](https://github.com/GareBear99/Gatorrent) — 
 - [ARC-SeedCatalog](https://github.com/GareBear99/ARC-SeedCatalog) — 
