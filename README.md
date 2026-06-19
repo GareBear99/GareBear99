@@ -53,6 +53,9 @@ I build full production systems across whatever domain needs solving — then co
 - 🗣️ [arc-language-module](https://github.com/GareBear99/arc-language-module) — multilingual language/script/lineage substrate for AI and ARC-style systems.
 
 ---
+# Game Assets & Engines (SVG-Pixel-2.5D-3D)
+
+---
 ## *NEW*
 - [BannerBass](https://github.com/GareBear99/BannerBass) — BannerBass is a no-server static banner maker for music release banners.
 - [SlushAI]() — 
@@ -83,7 +86,6 @@ I build full production systems across whatever domain needs solving — then co
 - ⏳ [TT-101 Handbook](https://github.com/GareBear99/TT-101_Handbook) — conceptual time systems, continuity protocols, and theoretical frameworks
 - 🌐 [gh-uploader-cli](https://github.com/GareBear99/gh-uploader-cli) — cross-platform GitHub uploader
   
-## Game Assets & Engines (SVG-Pixel-2.5D-3D)
 
 ## Games
 - [ThingsHappening]()
