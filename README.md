@@ -55,7 +55,7 @@ I build full production systems across whatever domain needs solving — then co
 ---
 # Game Assets & Engines (SVG-Pixel-2.5D-3D)
 
- *Games*
+## Games
  
 - [ThingsHappening]()
 - [WraithEternal]()
