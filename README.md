@@ -55,6 +55,15 @@ I build full production systems across whatever domain needs solving — then co
 ---
 # Game Assets & Engines (SVG-Pixel-2.5D-3D)
 
+ *Games*
+ 
+- [ThingsHappening]()
+- [WraithEternal]()
+- 👾 [RiftAscent](https://github.com/GareBear99/RiftAscent) — canvas-based action game, prestige cycles, procedural audio, coming to iOS & Android.
+- 🎮 [Neolution](https://github.com/GareBear99/Neolution) — CPU-light Canvas2D rhythm game with 8 lanes, gamepad support, and real-time audio analysis.
+- [SlimeVeil]()
+- [M.O.M]()
+
 ---
 ## *NEW*
 - [BannerBass](https://github.com/GareBear99/BannerBass) — BannerBass is a no-server static banner maker for music release banners.
@@ -87,13 +96,6 @@ I build full production systems across whatever domain needs solving — then co
 - 🌐 [gh-uploader-cli](https://github.com/GareBear99/gh-uploader-cli) — cross-platform GitHub uploader
   
 
-## Games
-- [ThingsHappening]()
-- [WraithEternal]()
-- 👾 [RiftAscent](https://github.com/GareBear99/RiftAscent) — canvas-based action game, prestige cycles, procedural audio, coming to iOS & Android.
-- 🎮 [Neolution](https://github.com/GareBear99/Neolution) — CPU-light Canvas2D rhythm game with 8 lanes, gamepad support, and real-time audio analysis.
-- [SlimeVeil]()
-- [M.O.M]()
   
 
 It's not just "can build anything" it's "can build anything and know why it should exist and how to sell it."
