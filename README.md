@@ -53,7 +53,7 @@ I build full production systems across whatever domain needs solving — then co
 - 🗣️ [arc-language-module](https://github.com/GareBear99/arc-language-module) — multilingual language/script/lineage substrate for AI and ARC-style systems.
 
 ---
-# Game Assets & Engines (SVG-Pixel-2.5D-3D)
+# Game Assets (SVG-Pixel-2.5D-3D) & Engines
 
 ## Games
  
