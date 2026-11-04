@@ -51,11 +51,13 @@ I build full production systems across whatever domain needs solving — then co
 - 🏁 [ARC-Turbo-OS](https://github.com/GareBear99/ARC-Turbo-OS) — seed/runtime acceleration and redundant computation elimination concept.
 - 🔮 [I/O Synth Grid Engine](https://github.com/GareBear99/Proto-Synth_Grid_Engine) — Prototyping blueprint-driven simulation where geometry is computation.
 - 🗣️ [arc-language-module](https://github.com/GareBear99/arc-language-module) — multilingual language/script/lineage substrate for AI and ARC-style systems.
+- 🎞️ [ARC-Fusion](https://github.com/GareBear99/ARC-Fusion) — ARC-Fusion is an ARC-native, FFmpeg-backed, binary-first cryptographic media runtime.
+- 🚁 [ARC-Apache](https://github.com/GareBear99/ARC-Apache) — ARC-Apache is the binary-first cryptographic memory substrate for the ARC ecosystem.
+- 🦀 [ai-desk-meter](https://github.com/GareBear99/ai-desk-meter) — small ESP32-S3 AMOLED display that shows current usage, and connection status.
+- 💦 [ARC-StreamMemory](https://github.com/GareBear99/ARC-StreamMemory) — local-first visual capture stream second brain for AI systems.
+- 🟩 [ARC-Room](https://github.com/GareBear99/ARC-Room) — Tactical Mesh Object Intake Lab v0.1---
 
----
-# Game Assets (SVG-Pixel-2.5D-3D) & Engines
-
-## Games
+## Games/Assets Packs & More!
 
 [Itch.io Page](https://garebearproductionz.itch.io/) 
  
@@ -73,11 +75,6 @@ I build full production systems across whatever domain needs solving — then co
 - [Gatorrent](https://github.com/GareBear99/Gatorrent) — 
 - [ARC-SeedCatalog](https://github.com/GareBear99/ARC-SeedCatalog) — 
 - [ARC-Emulator](https://github.com/GareBear99/ARC-Emulator) — 
-- 🎞️ [ARC-Fusion](https://github.com/GareBear99/ARC-Fusion) — ARC-Fusion is an ARC-native, FFmpeg-backed, binary-first cryptographic media runtime.
-- 🚁 [ARC-Apache](https://github.com/GareBear99/ARC-Apache) — ARC-Apache is the binary-first cryptographic memory substrate for the ARC ecosystem.
-- 🦀 [ai-desk-meter](https://github.com/GareBear99/ai-desk-meter) — small ESP32-S3 AMOLED display that shows current usage, and connection status.
-- 💦 [ARC-StreamMemory](https://github.com/GareBear99/ARC-StreamMemory) — local-first visual capture stream second brain for AI systems.
-- 🟩 [ARC-Room](https://github.com/GareBear99/ARC-Room) — Tactical Mesh Object Intake Lab v0.1
 ---
 
 **Right now:**
