@@ -72,7 +72,8 @@ I build full production systems across whatever domain needs solving — then co
 ---
 ## *NEW*
 - [BannerBass](https://github.com/GareBear99/BannerBass) — BannerBass is a no-server static banner maker for music release banners.
-- [SlushAI]() — 
+- [SlushAI](https://github.com/GareBear99/SlushAI) — local-first AI 3D modeller (image to 3D model), TripoSR-powered. The avatar builder for Lucid.
+- [Lucid Mouse](https://github.com/GareBear99/Lucid-Mouse) — The Mouse — every pointer Lucid has, mice and finger pointers alike.
 - [Gatorrent](https://github.com/GareBear99/Gatorrent) — 
 - [ARC-SeedCatalog](https://github.com/GareBear99/ARC-SeedCatalog) — 
 - [ARC-Emulator](https://github.com/GareBear99/ARC-Emulator) — 
