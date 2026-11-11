@@ -75,6 +75,7 @@ I build full production systems across whatever domain needs solving — then co
 - [SlushAI](https://github.com/GareBear99/SlushAI) — local-first AI 3D modeller (image to 3D model), TripoSR-powered. The avatar builder for Lucid.
 - [Lucid Mouse](https://github.com/GareBear99/Lucid-Mouse) — The Mouse — every pointer Lucid has, mice and finger pointers alike.
 - [Lucid Terminal](https://github.com/GareBear99/lucid-terminal) — AI-Native Terminal with LuciferAI Built-In. The main platform.
+- [Lucid File Commander](https://github.com/GareBear99/Lucid-File-Commander) — Lucid's native, governed way to command files.
 - [Gatorrent](https://github.com/GareBear99/Gatorrent) — 
 - [ARC-SeedCatalog](https://github.com/GareBear99/ARC-SeedCatalog) — 
 - [ARC-Emulator](https://github.com/GareBear99/ARC-Emulator) — 
