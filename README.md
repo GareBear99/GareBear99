@@ -79,6 +79,7 @@ I build full production systems across whatever domain needs solving — then co
 - [Gatorrent](https://github.com/GareBear99/Gatorrent) — 
 - [ARC-SeedCatalog](https://github.com/GareBear99/ARC-SeedCatalog) — 
 - [ARC-Emulator](https://github.com/GareBear99/ARC-Emulator) — 
+- [phone-control](https://github.com/GareBear99/phone-control) — The app that lets Muse control a phone with a finger — through the app, not through Lucid.
 ---
 
 **Right now:**
